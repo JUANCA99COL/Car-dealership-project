@@ -1,4 +1,5 @@
 {
+  "homepage": "https://JUANCA99COL.github.io/Car-dealership-project",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -59,7 +60,9 @@
   "scripts": {
     "start": "craco start",
     "build": "craco build",
-    "test": "craco test"
+    "test": "craco test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
