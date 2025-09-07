@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Car-dealership-project/static/css/main.a042995b.css",
+    "main.js": "/Car-dealership-project/static/js/main.364d204a.js",
+    "static/js/208.4b5e2b1e.chunk.js": "/Car-dealership-project/static/js/208.4b5e2b1e.chunk.js",
+    "static/js/293.e06f636b.chunk.js": "/Car-dealership-project/static/js/293.e06f636b.chunk.js",
+    "static/js/917.899a0d7e.chunk.js": "/Car-dealership-project/static/js/917.899a0d7e.chunk.js",
+    "static/js/516.60861a54.chunk.js": "/Car-dealership-project/static/js/516.60861a54.chunk.js",
+    "static/js/519.72651389.chunk.js": "/Car-dealership-project/static/js/519.72651389.chunk.js",
+    "static/js/946.b424a837.chunk.js": "/Car-dealership-project/static/js/946.b424a837.chunk.js",
+    "static/js/160.87094740.chunk.js": "/Car-dealership-project/static/js/160.87094740.chunk.js",
+    "static/js/23.3f358cab.chunk.js": "/Car-dealership-project/static/js/23.3f358cab.chunk.js",
+    "index.html": "/Car-dealership-project/index.html",
+    "main.a042995b.css.map": "/Car-dealership-project/static/css/main.a042995b.css.map",
+    "main.364d204a.js.map": "/Car-dealership-project/static/js/main.364d204a.js.map",
+    "208.4b5e2b1e.chunk.js.map": "/Car-dealership-project/static/js/208.4b5e2b1e.chunk.js.map",
+    "293.e06f636b.chunk.js.map": "/Car-dealership-project/static/js/293.e06f636b.chunk.js.map",
+    "917.899a0d7e.chunk.js.map": "/Car-dealership-project/static/js/917.899a0d7e.chunk.js.map",
+    "516.60861a54.chunk.js.map": "/Car-dealership-project/static/js/516.60861a54.chunk.js.map",
+    "519.72651389.chunk.js.map": "/Car-dealership-project/static/js/519.72651389.chunk.js.map",
+    "946.b424a837.chunk.js.map": "/Car-dealership-project/static/js/946.b424a837.chunk.js.map",
+    "160.87094740.chunk.js.map": "/Car-dealership-project/static/js/160.87094740.chunk.js.map",
+    "23.3f358cab.chunk.js.map": "/Car-dealership-project/static/js/23.3f358cab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a042995b.css",
+    "static/js/main.364d204a.js"
+  ]
+}
