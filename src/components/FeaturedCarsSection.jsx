@@ -23,7 +23,7 @@ export const FeaturedCarsSection = ({ onViewDetails, onAddToCart }) => {
   };
 
   return (
-    <section id="featured" className="py-20 bg-[var(--bg-secondary)]">
+    <section id="featured" className="py-20 bg-[var(--bg-primary)]">
       <div className="dark-full-container">
         <div className="text-center mb-16">
           <h2 className="display-large text-white mb-6">

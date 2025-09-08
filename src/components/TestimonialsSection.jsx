@@ -18,7 +18,7 @@ export const TestimonialsSection = () => {
   };
 
   return (
-    <section id="testimonials" className="py-20 bg-[var(--bg-secondary)]">
+    <section id="testimonials" className="py-20 bg-[var(--bg-primary)]">
       <div className="dark-full-container">
         <div className="text-center mb-16">
           <h2 className="display-large text-white mb-6">
