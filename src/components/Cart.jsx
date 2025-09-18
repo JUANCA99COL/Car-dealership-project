@@ -71,7 +71,7 @@ export const Cart = ({ isOpen, onClose }) => {
       <div className="absolute right-0 top-0 h-full w-full max-w-md bg-[var(--bg-primary)] border-l border-[var(--border-subtle)] flex flex-col">
         
         {/* Header */}
-        <div className="flex items-center justify-between p-6 border-b border-[var(--border-subtle)]">
+        <div className="flex items-center justify-between p-6">
           <div className="flex items-center gap-3">
             <ShoppingBag size={24} className="text-[var(--brand-primary)]" />
             <h2 className="heading-2 text-white">Your Cart</h2>

@@ -90,7 +90,7 @@ export const ServicesSection = ({ onServiceClick }) => {
             <p className="body-medium text-[var(--text-secondary)] mb-6">
               Our team is ready to assist with any special requirements or custom services.
             </p>
-            <button className="btn-primary">
+            <button className="btn-primary transition-transform duration-300">
               Contact Our Team
             </button>
           </div>

@@ -3,7 +3,7 @@ import { Calendar, Phone, ArrowRight } from 'lucide-react';
 
 export const CTABanner = ({ onTestDriveClick, onContactClick }) => {
   return (
-    <section className="py-20 bg-black relative overflow-hidden">
+    <section id="contact" className="py-20 bg-black relative overflow-hidden">
       {/* Background Effects */}
       <div className="absolute inset-0">
         <div className="absolute inset-0 bg-gradient-to-r from-[var(--brand-primary)]/10 via-transparent to-[var(--brand-primary)]/10"></div>
@@ -38,7 +38,6 @@ export const CTABanner = ({ onTestDriveClick, onContactClick }) => {
               </button>
               
               <button 
-                onClick={onContactClick}
                 className="btn-secondary group min-w-[240px]"
               >
                 <Phone size={20} />

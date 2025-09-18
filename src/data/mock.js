@@ -96,7 +96,7 @@ export const featuredCars = [
     name: "BMW M4 Competition",
     brand: "BMW",
     price: 89900,
-    image: "https://images.unsplash.com/photo-1563826773-1e2b4b2cde42?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Njl8MHwxfHNlYXJjaHw0fHxCTVd8ZW58MHx8fHwxNzU3MTA1MjY5fDA&ixlib=rb-4.1.0&q=85",
+    image: "https://images.unsplash.com/photo-1728060838342-cb9744a27d1b?q=80&w=1933&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     horsepower: 503,
     availability: "In Stock",
     features: ["Twin-Turbo V6", "Carbon Fiber", "Premium Audio"],

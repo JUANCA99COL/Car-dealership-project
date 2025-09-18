@@ -65,7 +65,8 @@ export const CarDetailsModal = ({ car, isOpen, onClose }) => {
       
       {/* Modal */}
       <div className="relative min-h-screen flex items-center justify-center p-4">
-        <div className="relative bg-[var(--bg-primary)] border border-[var(--border-subtle)] rounded-lg w-full max-w-4xl max-h-[90vh] overflow-y-auto">
+        <div className="relative bg-[var(--bg-primary)] border border-[var(--border-subtle)] rounded-lg w-full max-w-4xl max-h-[90vh] 
+        overflow-y-auto">
           
           {/* Header */}
           <div className="relative">

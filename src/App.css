@@ -87,6 +87,11 @@
   transform: scale(0.98);
 }
 
+/* test drive modal */
+.testDriveModal {
+  margin: 20%;
+}
+
 /* Navigation Header - Fixed Dark Header */
 .dark-header {
   background: var(--bg-primary);
@@ -254,6 +259,11 @@
   .dark-header {
     padding: 16px 20px;
     height: 70px;
+  }
+
+  .dark-nav-link {
+    visibility: hidden;
+    display: none;
   }
   
   .dark-full-container {
